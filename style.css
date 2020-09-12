@@ -5,3 +5,17 @@
 body {
     text-align: center;
 }
+.hidden {
+    visibility: hidden;
+}
+li {
+    list-style: none;
+    padding: 10 10;
+
+}
+hr {
+    
+    border-top: 1px dotted white;
+}
+
+}
